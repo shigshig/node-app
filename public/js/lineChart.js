@@ -1,3 +1,4 @@
+//サンプルデータ
 var ctx = document.getElementById("myLineChart");
   var myLineChart = new Chart(ctx, {
     type: 'line',
